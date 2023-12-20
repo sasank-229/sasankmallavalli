@@ -1,5 +1,5 @@
 function linkedin(){
-    Finalresult='<a href="https://www.linkedin.com/in/mutyala-sai-sasank-mallavalli-612272227" target="_blank">https://www.linkedin.com/in/mutyala-sai-sasank-mallavalli/612272227</a>';
+    Finalresult='<a href="https://www.linkedin.com/in/mutyala-sai-sasank-mallavalli-612272227" target="_blank">https://www.linkedin.com/in/mutyala-sai-sasank-mallavalli-612272227</a>';
     // Finalresult='https://www.linkedin.com/in/mutyala-sai-sasank-mallavalli-612272227'
     document.getElementById('answer').innerHTML = Finalresult;
 }
